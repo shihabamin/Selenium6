@@ -1,0 +1,184 @@
+2020-01-19 10:05:40,170 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-01-19 11:42:27,224 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Dell\eclipse-workspace3\Maven_First_Class\pom.xml
+2020-01-19 11:42:28,590 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Maven_First_Class:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace3\Maven_First_Class\pom.xml.
+2020-01-19 11:42:28,964 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Maven_First_Class/src/main/java
+2020-01-19 11:42:28,970 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Maven_First_Class/src/test/java
+2020-01-19 11:42:29,086 [Worker-23: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-01-19 11:42:29,485 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 11:42:29,485 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 11:42:29,529 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 11:42:29,529 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 11:58:15,024 [Worker-24: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 11:58:15,026 [Worker-24: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-19 11:58:20,311 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 11:58:20,311 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 11:58:20,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 11:58:20,313 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 11:59:00,165 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 11:59:00,166 [Worker-26: Launching Executing install in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-19 11:59:07,802 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 11:59:07,802 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 11:59:07,804 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 11:59:07,804 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:07:27,984 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:07:27,985 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:07:27,991 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:07:27,991 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:07:42,015 [Worker-22: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:07:42,015 [Worker-22: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-19 12:07:47,042 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:07:47,042 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:07:47,044 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:07:47,044 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:07:56,555 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-01-19 12:08:17,499 [Worker-22: Launching Executing install in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:08:17,499 [Worker-22: Launching Executing install in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-19 12:08:27,982 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:08:27,983 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:08:27,985 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:08:27,986 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:09:13,102 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:09:13,102 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:09:13,105 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:09:13,105 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:09:45,555 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:09:45,557 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:09:45,560 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:09:45,560 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:10:33,581 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:10:33,582 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:10:33,585 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:10:33,585 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:14:20,353 [Worker-27: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:14:20,354 [Worker-27: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-19 12:14:25,202 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:14:25,203 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:14:25,205 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:14:25,206 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:14:29,477 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-01-19 12:14:55,360 [Worker-8: Launching Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:14:55,361 [Worker-8: Launching Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-01-19 12:14:56,359 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Maven_First_Class:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace3\Maven_First_Class\pom.xml.
+2020-01-19 12:14:56,876 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:14:56,877 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:14:56,882 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:14:56,882 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:14:58,293 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:14:58,294 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:14:58,295 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:14:58,296 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:15:26,184 [Worker-27: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:15:26,185 [Worker-27: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-19 12:15:31,012 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:15:31,012 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:15:31,014 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:15:31,015 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:15:48,230 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-01-19 12:15:49,575 [Worker-8: Launching Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:15:49,576 [Worker-8: Launching Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-01-19 12:15:49,731 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:15:49,731 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:15:49,733 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:15:49,734 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:19:56,949 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:19:56,949 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:19:56,951 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:19:56,951 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:20:21,607 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:20:21,609 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:20:21,611 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:20:21,612 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:20:31,206 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:20:31,206 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:20:31,210 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:20:31,210 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:22:20,994 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:22:20,994 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:22:21,003 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:22:21,004 [Worker-26: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:23:43,912 [Worker-25: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:23:43,912 [Worker-25: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:23:43,914 [Worker-25: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:23:43,915 [Worker-25: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:26:49,491 [Worker-28: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:26:49,491 [Worker-28: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:26:49,500 [Worker-28: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:26:49,500 [Worker-28: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:29:15,344 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:29:15,345 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:29:15,347 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:29:15,349 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:29:25,022 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:29:25,022 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:29:25,023 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:29:25,024 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:41:46,602 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:41:46,602 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:41:46,609 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:41:46,610 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:41:58,190 [Worker-22: Launching Launch_Browser (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:41:58,191 [Worker-22: Launching Launch_Browser (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:41:58,195 [Worker-22: Launching Launch_Browser (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:41:58,195 [Worker-22: Launching Launch_Browser (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:42:10,242 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:10,243 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:42:10,245 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:10,245 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:42:27,553 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:27,553 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:42:27,556 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:27,557 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:42:40,255 [Worker-29: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:42:40,256 [Worker-29: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-19 12:42:44,362 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:44,363 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:42:44,364 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:44,364 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:42:51,289 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-01-19 12:42:52,694 [Worker-27: Launching Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:42:52,694 [Worker-27: Launching Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2020-01-19 12:42:52,857 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:52,857 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:42:52,859 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:42:52,860 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:51:56,156 [Worker-28: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:51:56,156 [Worker-28: Launching Executing clean in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-01-19 12:52:01,187 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:01,187 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:52:01,189 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:01,190 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:52:09,850 [Worker-29: Launching Executing install in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Dell\eclipse-workspace3\Maven_First_Class
+2020-01-19 12:52:09,850 [Worker-29: Launching Executing install in C__Users_Dell_eclipse-workspace3_Maven_First_Class] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-01-19 12:52:19,569 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:19,570 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:52:19,571 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:19,571 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:52:52,514 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:Maven_First_Class:0.0.1-SNAPSHOT @ C:\Users\Dell\eclipse-workspace3\Maven_First_Class\pom.xml.
+2020-01-19 12:52:52,973 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:52,974 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:52:52,980 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:52,980 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:52:54,350 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:54,350 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:52:54,354 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:52:54,354 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:53:42,548 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:53:42,548 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:53:42,550 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:53:42,550 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:56:45,186 [Worker-8: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:56:45,186 [Worker-8: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:56:45,187 [Worker-8: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:56:45,188 [Worker-8: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 12:58:45,612 [Worker-32: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:58:45,612 [Worker-32: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 12:58:45,614 [Worker-32: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 12:58:45,614 [Worker-32: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 13:00:27,413 [Worker-34: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 13:00:27,414 [Worker-34: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 13:00:27,416 [Worker-34: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 13:00:27,416 [Worker-34: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
+2020-01-19 13:13:30,242 [Worker-29: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 13:13:30,243 [Worker-29: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\main\resources
+2020-01-19 13:13:30,244 [Worker-29: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-19 13:13:30,244 [Worker-29: Launching Launch_Browser] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Dell\eclipse-workspace3\Maven_First_Class\src\test\resources
